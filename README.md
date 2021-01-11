@@ -27,5 +27,17 @@ The analysis of the election show that:
   - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
     
     ## Challenge Overview
-    
+    The purpose of this election audit analysis was to determine the voter turnout for each county, the percentage of votes from each county out of the total count, as well as    find out which county had the highest turnout. 
     ## Challenge Summary 
+    
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+
+-------------------------
+Largest County Turnout: Denver
+
+### Business proposal
+This script can be used with some modifications for auditing any election in the future. You can change the file you use to pull data and therefore change all the information related where the votes came from (like the county name in this example), candidate names (can be any number), and the number of votes for that election aggregated by candidate and county or any other variable presented in the csv data file. 
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
