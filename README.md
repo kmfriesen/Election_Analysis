@@ -44,4 +44,3 @@ The purpose of this election audit analysis was to determine the voter turnout f
 
 ### Business proposal
 This script can be used with some modifications for auditing any election in the future. You can change the file you use to pull data and therefore change all the information related where the votes came from (like the county name in this example), candidate names (can be any number), and the number of votes for that election aggregated by candidate and county or any other variable presented in the csv data file. 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
