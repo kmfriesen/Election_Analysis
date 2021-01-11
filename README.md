@@ -25,6 +25,8 @@ The analysis of the election show that:
 
             Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes. 
   - The winner of the election was Diana DeGette, who received 73.8% of the vote and 272,892 number of votes. 
+  
+![alt text](https://github.com/kmfriesen/Election_Analysis/blob/main/Resources/Election_results_candidates.PNG)
     
 ## Challenge Overview
 The purpose of this election audit analysis was to determine the voter turnout for each county, the percentage of votes from each county out of the total count, as well as    find out which county had the highest turnout. 
@@ -36,6 +38,8 @@ The purpose of this election audit analysis was to determine the voter turnout f
             Denver: 82.8% (306,055)
             Arapahoe: 6.7% (24,801)
             
+![alt text](https://github.com/kmfriesen/Election_Analysis/blob/main/Resources/Election_results.PNG)
+
 - The largest county turnout was in Denver with 82.8% of the votes and 306,055 number of votes.  
 
 ### Business proposal
